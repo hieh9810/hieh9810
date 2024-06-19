@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	html {
-		background-color: #313a3d;
+		background-color: #228aad;
 		background-attachment: fixed,						fixed;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,					center center;
@@ -526,7 +526,7 @@ input, select, textarea {
 			}
 
 				.row.gtr-150.gtr-uniform > * {
-					padding-top: 2.25em;
+					padding-top: 2.5em;
 				}
 
 		.row.gtr-200 {
@@ -2236,7 +2236,8 @@ input, select, textarea {
 		}
 
 		.image img {
-			display: block;
+			display: none;
+			top: 0;
 		}
 
 		.image.left {
@@ -2833,7 +2834,7 @@ input, select, textarea {
 			#header header p {
 				color: #ffffff;
 				font-weight: 700;
-				margin: 1.5em 0 0 0;
+				margin: 2em 0 0 0;
 			}
 
 		#header .container {
@@ -2850,7 +2851,7 @@ input, select, textarea {
 			}
 
 			#header .container .button {
-				min-width: 12em;
+				min-width: 10em;
 			}
 
 /* Footer */
